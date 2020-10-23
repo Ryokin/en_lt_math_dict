@@ -1,2 +1,2 @@
-# en_lt_math_dict
+# English - Lithuanian Math Dictionary
 📚📐 English - Lithuanian (Anglų - Lietuvių) Math dictionary
